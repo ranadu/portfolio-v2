@@ -149,9 +149,9 @@ const Skills = () => {
           </h3>
           <div className="grid md:grid-cols-3 gap-6">
             {[
-              "FAA Private Pilot License",
+              "Google Cybersecurity Professional Certificate",
               "MATLAB Certified Professional",
-              "AWS Cloud Practitioner"
+              "Solidworks certified Associate",    //come back to this
             ].map((cert, index) => (
               <motion.div
                 key={index}

@@ -8,7 +8,7 @@ const About = () => {
     {
       icon: <GraduationCap className="w-6 h-6" />,
       title: "Education",
-      description: "M.S. Aerospace Engineering, Top University"
+      description: "B. Eng. Aerospace Engineering, Toronto Metropolitan University"
     },
     {
       icon: <Target className="w-6 h-6" />,
@@ -62,7 +62,7 @@ const About = () => {
               <p className="text-gray-300 leading-relaxed">
                 I'm driven by the challenge of solving complex engineering problems and 
                 contributing to the advancement of aerospace technology. My goal is to join 
-                leading aerospace companies like Boeing or Airbus to work on next-generation 
+                leading aerospace companies to work on next-generation 
                 aircraft and space exploration systems.
               </p>
             </div>

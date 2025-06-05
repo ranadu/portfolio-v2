@@ -42,7 +42,7 @@ const Contact = () => {
       icon: <Mail className="w-5 h-5" />,
       label: "Email",
       value: "your.email@example.com",
-      href: "mailto:your.email@example.com"
+      href: "mailto:robanadu@gmail.com"
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
@@ -54,12 +54,12 @@ const Contact = () => {
       icon: <Github className="w-5 h-5" />,
       label: "GitHub",
       value: "github.com/yourusername",
-      href: "https://github.com/yourusername"
+      href: "https://github.com/ranadu"
     },
     {
       icon: <MapPin className="w-5 h-5" />,
       label: "Location",
-      value: "Your City, Country",
+      value: "Toronto ON, Canada",
       href: null
     }
   ];
@@ -97,8 +97,7 @@ const Contact = () => {
               </h3>
               <p className="text-gray-300 leading-relaxed mb-8">
                 I'm always excited to discuss new opportunities in aerospace engineering, 
-                innovative projects, or potential collaborations. Whether you're from Boeing, 
-                Airbus, or any aerospace company, I'd love to hear from you!
+                innovative projects, or potential collaborations. 
               </p>
 
               <div className="space-y-4">
@@ -194,7 +193,7 @@ const Contact = () => {
                       onChange={handleInputChange}
                       required
                       className="w-full px-4 py-3 bg-white/5 border border-white/10 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all duration-200"
-                      placeholder="Your Name"
+                      placeholder="Robert Anadu"
                     />
                   </div>
                   <div>
@@ -277,7 +276,7 @@ const Contact = () => {
           className="mt-20 pt-8 border-t border-white/10 text-center"
         >
           <p className="text-gray-400">
-            © 2024 Your Name. Built with passion for aerospace engineering.
+            © 2025 Robert Anadu. Built with passion for aerospace engineering.
           </p>
         </motion.footer>
       </div>
