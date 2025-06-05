@@ -48,7 +48,7 @@ const Contact = () => {
       icon: <Linkedin className="w-5 h-5" />,
       label: "LinkedIn",
       value: "linkedin.com/in/yourprofile",
-      href: "https://linkedin.com/in/yourprofile"
+      href: "https://linkedin.com/in/ranadu16"
     },
     {
       icon: <Github className="w-5 h-5" />,
@@ -158,7 +158,7 @@ const Contact = () => {
                 <Button
                   variant="outline"
                   className="w-full border-purple-400 text-purple-400 hover:bg-purple-400 hover:text-white justify-start"
-                  onClick={() => window.open('https://linkedin.com/in/yourprofile', '_blank')}
+                  onClick={() => window.open('https://linkedin.com/in/ranadu16', '_blank')}
                 >
                   <Linkedin className="w-4 h-4 mr-2" />
                   Connect on LinkedIn
