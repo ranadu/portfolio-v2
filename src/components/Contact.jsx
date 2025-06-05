@@ -41,19 +41,19 @@ const Contact = () => {
     {
       icon: <Mail className="w-5 h-5" />,
       label: "Email",
-      value: "your.email@example.com",
+      value: "robanadu@gmail.com",
       href: "mailto:robanadu@gmail.com"
     },
     {
       icon: <Linkedin className="w-5 h-5" />,
       label: "LinkedIn",
-      value: "linkedin.com/in/yourprofile",
+      value: "linkedin.com/in/ranadu16",
       href: "https://linkedin.com/in/ranadu16"
     },
     {
       icon: <Github className="w-5 h-5" />,
       label: "GitHub",
-      value: "github.com/yourusername",
+      value: "github.com/ranadu",
       href: "https://github.com/ranadu"
     },
     {
