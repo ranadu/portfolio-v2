@@ -26,7 +26,7 @@ const Skills = () => {
         { name: "ANSYS", level: 85 },
         { name: "SolidWorks", level: 80 },
         { name: "X-Plane", level: 75 },
-        { name: "STK", level: 70 }
+        { name: "Catia", level: 90 }
       ]
     },
     {
