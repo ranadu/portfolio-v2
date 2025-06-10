@@ -34,7 +34,7 @@ const Hero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
           >
-            <span className="gradient-text glow-text">Morayo Aladejana</span>
+            <span className="gradient-text glow-text">Robert Anadu</span>
           </motion.h1>
 
           <motion.p
