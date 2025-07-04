@@ -8,14 +8,14 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "Advanced Flight Control System",
+      title: "AI Chatbot",
       category: "Control Systems",
       icon: <Settings className="w-6 h-6" />,
-      description: "Developed a sophisticated autopilot system with adaptive control algorithms for unmanned aerial vehicles, featuring real-time stability augmentation and autonomous navigation capabilities.",
-      image: "Advanced flight control system with autopilot interface and real-time monitoring",
-      technologies: ["MATLAB", "Simulink", "C++", "Real-time Systems"],
-      demoUrl: "https://your-demo.vercel.app",
-      githubUrl: "https://github.com/yourusername/flight-control"
+      description: "Developed a sophisticated AI chatbot with natural language processing capabilities, enabling seamless interactions and personalized user experiences.",
+      image: "AI chatbot interface showcasing conversation flow and user interactions",
+      technologies: ["Python", "TensorFlow", "Natural Language Processing", "Flask"],
+      demoUrl: "https://ai-chatbot-qs180stya-roberts-projects-9bcfa86c.vercel.app",
+      githubUrl: "https://github.com/ranadu/AI-chatbot.git"
     },
     {
       id: 2,
@@ -25,8 +25,8 @@ const Projects = () => {
       description: "Built a comprehensive 6-DOF aircraft simulation environment with high-fidelity aerodynamic modeling, environmental effects, and real-time visualization for flight testing scenarios.",
       image: "Comprehensive aerospace simulation platform with 3D aircraft modeling",
       technologies: ["Python", "NumPy", "OpenGL", "Physics Engine"],
-      demoUrl: "https://your-demo.vercel.app",
-      githubUrl: "https://github.com/yourusername/aero-sim"
+      demoUrl: "https://aerospace-simulation-platform.vercel.app/",
+      githubUrl: "https://github.com/ranadu/aerospace-Simulation-platform.git"
     },
     {
       id: 3,
