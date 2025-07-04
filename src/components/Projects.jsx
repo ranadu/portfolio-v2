@@ -14,7 +14,7 @@ const Projects = () => {
       description: "Developed a sophisticated AI chatbot with natural language processing capabilities, enabling seamless interactions and personalized user experiences.",
       image: "AI chatbot interface showcasing conversation flow and user interactions",
       technologies: ["Python", "TensorFlow", "Natural Language Processing", "Flask"],
-      demoUrl: "https://ai-chatbot-qs180stya-roberts-projects-9bcfa86c.vercel.app",
+      demoUrl: "https://ai-chatbot-cyan-alpha.vercel.app/",
       githubUrl: "https://github.com/ranadu/AI-chatbot.git"
     },
     {
@@ -36,8 +36,8 @@ const Projects = () => {
       description: "Implemented neural networks to predict aircraft performance parameters and optimize flight paths using historical flight data and real-time atmospheric conditions.",
       image: "Machine learning interface showing flight prediction algorithms and data visualization",
       technologies: ["Python", "TensorFlow", "Pandas", "Scikit-learn"],
-      demoUrl: "https://your-demo.vercel.app",
-      githubUrl: "https://github.com/yourusername/ml-flight"
+      demoUrl: "https://flight-predictor-wak8.onrender.com",
+      githubUrl: "https://github.com/ranadu/Flight-predictor.git"
     },
     {
       id: 4,
